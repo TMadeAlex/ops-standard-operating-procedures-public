@@ -7,6 +7,8 @@
 ![Changed](https://img.shields.io/badge/Changed-2026--11--23-249094?style=flat-square)
 ![For](https://img.shields.io/badge/For-visitors-64748b?style=flat-square)
 
+**TMade Alex**, in his own words: "Futures Trader | Streamer and Host of TMade" ([Instagram](https://www.instagram.com/tmadealex/), read 2026-11-23). His community is TRADERMADE, at [whop.com/tradermade](https://whop.com/tradermade). This home on GitHub, TMadeAlex, is kept for him.
+
 > Set up as a gift by Christopher W ([@drasticstatic](https://github.com/drasticstatic)), a member of TMade Alex's
 > TRADERMADE community, so that the home is ready whenever TMade Alex wants it. What stays here is TMade Alex's to decide.
 
