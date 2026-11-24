@@ -9,8 +9,7 @@
 
 **TMade Alex**, in his own words: "Futures Trader | Streamer and Host of TMade" ([Instagram](https://www.instagram.com/tmadealex/), read 2026-11-23). His community is TRADERMADE, at [whop.com/tradermade](https://whop.com/tradermade). This home on GitHub, TMadeAlex, is kept for him.
 
-> Set up as a gift by Christopher W ([@drasticstatic](https://github.com/drasticstatic)), a member of TMade Alex's
-> TRADERMADE community, so that the home is ready whenever TMade Alex wants it. What stays here is TMade Alex's to decide.
+> Set up as a gift by a member of TMade Alex's TRADERMADE community, so that the home is ready whenever TMade Alex wants it. What stays here is TMade Alex's to decide.
 
 A **procedure** says how an approved thing is done, step by step, so a person or their helper can do it without the
 author in the room. This repository holds only the procedures an owner has chosen to show visitors, copied here by a
